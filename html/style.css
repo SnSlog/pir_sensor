@@ -1,0 +1,15 @@
+body{color: #000000; font-family: verdana,helvetica,arial,sans-serif; font-size: 12px; text-align: center;}
+.block1{position: relative; float: none; margin: 0 auto; width: 400px; background: #dee0e2; border-radius: 20px;}
+.main_tbl{width: 100%; border-spacing: 2px 7px;}
+.prt_box{width: 100%; border: 1px solid grey; background: #ffffff; border-radius: 20px; padding: 2px; border-spacing: 4px;}
+.td_head{text-align: center; border-bottom: 2px solid grey; padding-bottom: 5px;}
+.td_css{width: 30%; text-align: right;}
+.inp_txt{text-align: left;}
+.inp_str{width: 95%;}
+.ch_box{text-align: left;}
+.btn_tb{text-align: center; display: inline-block; margin: 4px;}
+.div_prt{padding: 4px;}
+.nw{text-align: left;}
+.btn, .btn:link, .btn:visited{width: 120px; height: 30px; border-radius: 20px; border: 1px solid #001F3F; background-color: #0074D9; font-weight: bold; text-decoration: none; text-transform: uppercase; color: #ffffff; text-align: center; display: inline-block;}
+.btn:hover, .btn:focus{color: #7FDBFF; border: 1px solid #7FDBFF; background: #52A8E8;}
+.btn:active{color: #0063aa; border: 1px solid #42d1f4; background: #2D7CD1;}
